@@ -19,8 +19,8 @@ class DetailView extends StatelessWidget {
               onPressed: () {
                 Get.find<DetailController>().goToMain();
               },
-           //   child: TextList(),
-              child: Text('goToMain'),
+              child: TextList(),
+            //  child: Text('goToMain'),
             ),
             ElevatedButton(
               onPressed: () {
