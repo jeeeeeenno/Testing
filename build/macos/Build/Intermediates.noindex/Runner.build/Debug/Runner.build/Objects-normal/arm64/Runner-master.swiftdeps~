@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ae411762d4ee53e597c8e45f9d75d98cee9040544ff6c21e0faf7bfa82964d9f"
+build_start_time: [1693754333, 849106000]
+build_end_time: [1693754333, 876300000]
+inputs:
+  "/Users/yuhyeseung/RE-Habbit-ShinhanH/RE-Habbit-ShinhanH/flutter_pagebuild/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1693754325, 13780852]
+  "/Users/yuhyeseung/RE-Habbit-ShinhanH/RE-Habbit-ShinhanH/flutter_pagebuild/macos/Runner/AppDelegate.swift": !private [1693753795, 510792996]
+  "/Users/yuhyeseung/RE-Habbit-ShinhanH/RE-Habbit-ShinhanH/flutter_pagebuild/macos/Runner/MainFlutterWindow.swift": !private [1693753795, 512474190]
